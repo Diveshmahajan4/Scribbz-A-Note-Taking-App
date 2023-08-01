@@ -1,3 +1,9 @@
+# Scribbz-A-Note-Taking-App
+
+<br/>
+<img src="./img/page1.png" alt="page1" />
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
